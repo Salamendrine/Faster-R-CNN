@@ -1,0 +1,68 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>190125_182208_00174837.jpg</filename>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid />
+  </source>
+  <owner>
+    <flickrid />
+    <name />
+  </owner>
+  <size>
+    <width>585</width>
+    <height>488</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>刀具</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>330.0</xmin>
+      <ymin>268.0</ymin>
+      <xmax>427.0</xmax>
+      <ymax>363.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>电源和电池</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>163.0</xmin>
+      <ymin>342.0</ymin>
+      <xmax>197.0</xmax>
+      <ymax>373.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>电源和电池</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>169.0</xmin>
+      <ymin>323.0</ymin>
+      <xmax>215.0</xmax>
+      <ymax>381.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>电源和电池</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>147.0</xmin>
+      <ymin>138.0</ymin>
+      <xmax>249.0</xmax>
+      <ymax>239.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

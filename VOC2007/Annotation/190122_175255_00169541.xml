@@ -1,0 +1,32 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>190122_175255_00169541.jpg</filename>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid />
+  </source>
+  <owner>
+    <flickrid />
+    <name />
+  </owner>
+  <size>
+    <width>718</width>
+    <height>565</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>剪刀</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>287.0</xmin>
+      <ymin>291.0</ymin>
+      <xmax>324.0</xmax>
+      <ymax>445.0</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,80 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>190125_181831_00174781.jpg</filename>
+  <source>
+    <database>The VOC2007 Database</database>
+    <annotation>PASCAL VOC2007</annotation>
+    <image>flickr</image>
+    <flickrid />
+  </source>
+  <owner>
+    <flickrid />
+    <name />
+  </owner>
+  <size>
+    <width>1151</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>铁壳打火机</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>122.0</xmin>
+      <ymin>245.0</ymin>
+      <xmax>209.0</xmax>
+      <ymax>366.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>铁壳打火机</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>220.0</xmin>
+      <ymin>283.0</ymin>
+      <xmax>264.0</xmax>
+      <ymax>348.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>刀具</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>742.0</xmin>
+      <ymin>377.0</ymin>
+      <xmax>771.0</xmax>
+      <ymax>620.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>黑钉打火机</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>362.0</xmin>
+      <ymin>350.0</ymin>
+      <xmax>419.0</xmax>
+      <ymax>473.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>黑钉打火机</name>
+    <pose>Left</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>877.0</xmin>
+      <ymin>93.0</ymin>
+      <xmax>939.0</xmax>
+      <ymax>144.0</ymax>
+    </bndbox>
+  </object>
+</annotation>
