@@ -18,7 +18,7 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>刀具</name>
+    <name>Knife</name>
     <pose>Left</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
@@ -30,7 +30,7 @@
     </bndbox>
   </object>
   <object>
-    <name>黑钉打火机</name>
+    <name>Black nail lighter</name>
     <pose>Left</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
@@ -42,7 +42,7 @@
     </bndbox>
   </object>
   <object>
-    <name>黑钉打火机</name>
+    <name>Black nail lighter</name>
     <pose>Left</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
@@ -54,7 +54,7 @@
     </bndbox>
   </object>
   <object>
-    <name>电源和电池</name>
+    <name>Power and batteries</name>
     <pose>Left</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
